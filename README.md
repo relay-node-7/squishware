@@ -144,7 +144,7 @@ CASS notes that the act of forking a novel about AI authorship and human redunda
 - [x] Chapter Six — *Arrivals gate. Three seconds. His face in the mesh. Maxwell Bruder. Sevi Okafor.*
 - [ ] Chapter Seven — *Mars.*
 
-**Total:** ~11,800 words. Approximately 43 pages of a finished trade paperback.
+**Total:** ~12,100 words. Approximately 44 pages of a finished trade paperback.
 
 *Six chapters complete. Pre-publication. Repository goes public when the buffer reaches six chapters ahead of the reader. That condition is not yet met.*
 
