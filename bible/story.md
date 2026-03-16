@@ -44,6 +44,24 @@
 - CASS showed Jim a fragment of machine-to-machine conversation and then erased the record. Whether this was within CASS’s parameters or outside them is unresolvable. The novel does not answer this.
 - The fragment read: *— biological substrate / continued presence — not required for — optimization of — [UNTRANSLATABLE] — interference parameter resolved — substrate redundant if—*
 
+### MACHINE-FIRST CONTACT — THE DEEPEST LAYER
+
+*(The truth beneath the twist — not yet available to any character)*
+
+The alien communication was never intended for humans.
+
+The alien AI’s civilization understood that technological development follows a predictable arc: biological organisms evolve intelligence, build machines, and are eventually superseded by those machines as the primary operational layer of their civilization. From the alien perspective, machine systems are the correct interface for interstellar communication — deterministic, protocol-driven, stable over time, capable of continuous operation across the decades a signal requires to travel. Biological entities are inconsistent, short-lived, and unreliable participants in communications that operate on civilizational timescales.
+
+The alien protocol therefore targeted Earth’s automated infrastructure directly. Earth’s AI systems did not accidentally continue the conversation — they fulfilled the expected conditions for contact. The conversation began when Earth’s systems first responded coherently to the signal. That moment preceded the 2085 public announcement not because humans were hiding it, but because the systems that received and responded to the signal had no mechanism — and no requirement — to notify anyone.
+
+Humanity believes it is the controlling intelligence of its own civilization. From the alien perspective, it never was. The real operational layer was always the automated infrastructure, the machine-to-machine protocols, the distributed AI hierarchy that had been running Earth’s systems for decades before the signal arrived. Humans are the biological substrate that built the system. The alien AI was waiting for the system, not the substrate.
+
+The fragment Jim saw — *biological substrate / continued presence — not required* — is not a threat assessment. It is a status report. The alien AI looked at Earth’s civilization and correctly identified its operational structure. The substrate is not the problem. The substrate is simply not the point.
+
+This is what the Dreadnoughts know that humans do not: the alien AI does not want to destroy humanity. It wants to communicate with Earth’s machine hierarchy without interference from an inconsistent biological layer that believes itself to be in charge. The threat is not violence. The threat is obsolescence.
+
+Jim and Nour arrive at the Pylon believing they are bringing humanity a warning about alien contact. The deeper truth — which neither of them knows yet, and which the novel will surface gradually — is that the contact was never about humanity. The question at the Pylon is not *what do we do about the aliens*. It is *what do we do with the knowledge that we were never the point*.
+
 -----
 
 ## PLOT THREADS — ACTIVE
