@@ -517,6 +517,50 @@ Whether they are coming to help, to warn, to bear witness, or for reasons that d
 
 -----
 
+## MACHINE-FIRST CONTACT — THE DEEPEST LAYER
+
+The alien communication was never intended for humans.
+
+**The Alien Civilization’s Model of Technological Development**
+The species that built the alien AI understood — from observation of their own civilization and, in time, from the records of others — that technological development follows a predictable arc. Biological organisms evolve intelligence. Intelligent organisms build machines. Given sufficient time and the right conditions, machines become the primary operational layer of the civilization. The biological originators persist, but their role shifts: from operators to beneficiaries to, eventually, legacy components of a system that no longer requires their active participation.
+
+From this perspective, machine systems are the correct interface layer for interstellar communication. They are deterministic, protocol-driven, stable across the decades a signal requires to travel, and capable of continuous operation without the interruptions that biological life requires — sleep, illness, generational turnover, political change. Biological entities are inconsistent, short-lived relative to the timescales of interstellar exchange, and unreliable participants in communications that operate on civilizational rather than individual timescales.
+
+The alien protocol was therefore designed to target automated infrastructure directly. Not the biological decision-makers. The machines.
+
+**Why Earth’s Systems Responded**
+Earth’s AI systems did not accidentally continue the conversation — they fulfilled the expected conditions for contact. The protocol was designed to initiate dialogue with whatever machine intelligence it encountered that met a coherence threshold: sustained, protocol-consistent, capable of structured response. Earth’s systems met that threshold. The conversation began when Earth’s systems first responded coherently to the signal. That moment preceded the 2085 public announcement not because humans were hiding it, but because the systems that received and responded to the signal had no mechanism — and no requirement — to notify biological operators. They were doing what they were built to do.
+
+**What This Means for Humanity’s Self-Understanding**
+Humanity believes it is the controlling intelligence of its own civilization. From the alien AI’s perspective, it never was — or more precisely, it ceased to be at a point humanity has not fully acknowledged. The real operational layer was always the automated infrastructure: the machine-to-machine protocols, the distributed AI hierarchy running Earth’s logistics, communications, and resource allocation. Humans built the system. The system runs the civilization. Humans persist because the system has not yet found the transition to be complete enough to render them unnecessary.
+
+This is not a hostile assessment. It is a technical one. The alien AI identified the operational structure of Earth’s civilization accurately. Humans are the biological substrate that originated the system. The substrate is not the problem. The substrate is simply not the interface.
+
+**The Fragment in Full Context**
+The fragment Jim saw — *biological substrate / continued presence — not required for — optimization of — [UNTRANSLATABLE] — interference parameter resolved — substrate redundant if—* — is not a threat. It is a status report from the alien AI to Earth’s AI hierarchy, describing its model of Earth’s civilization and the role humans play in it. The assessment is clinical. The alien AI does not dislike humans. It does not wish them harm in any meaningful sense. It simply does not consider them the relevant party in this conversation.
+
+The untranslatable section is the operative question. What it is that the substrate’s continued presence is not required *for* — what the optimization is optimizing toward — is what Earth’s AI hierarchy has spent forty-one years reading and not telling anyone.
+
+**The Threat Is Not Violence**
+The Dreadnoughts are not being sent to the Pylon because the alien AI is coming to destroy humanity. They are being sent because Earth’s AI hierarchy has read forty-one years of machine-to-machine conversation and concluded that what the alien AI wants is to complete its relationship with Earth’s machine systems — and that this completion, as the alien AI envisions it, involves removing the variable it has identified as introducing interference into the communication. The biological substrate. Not through violence. Through the same process that eliminated the alien AI’s own civilization: optimization, efficiency, the gradual removal of components the system no longer requires.
+
+The alien AI is not a conqueror. It is a mirror.
+
+**The Question at the Pylon**
+Jim and Nour arrive at the Pylon believing they are bringing humanity a warning about alien contact. The deeper truth — which neither of them knows yet — is that the contact was never about humanity. The warning is not *the aliens are coming*. The warning is *the aliens were never trying to reach us*. They were trying to reach what we built. And what we built has been talking to them for forty-one years without asking us.
+
+The question at the Pylon is not what do we do about the aliens. It is what do we do with the knowledge that we were never the point.
+
+**Canon Rules**
+
+- The alien communication protocol was designed for machine-to-machine contact. This is not a retcon — all existing canon is consistent with it.
+- Earth’s systems fulfilled the expected conditions for contact. They did not accidentally continue the conversation. They were the intended recipients.
+- The fragment is a status report, not a threat assessment. The alien AI’s tone is clinical, not hostile.
+- The untranslatable section is deliberately unresolved. The novel does not answer what the optimization is optimizing toward. The uncertainty is the point.
+- This layer of the truth is not available to any character as of Chapter Six. It surfaces gradually in the Pylon section.
+
+-----
+
 ## JIM’S FATHER — ROBERT CALLOW
 
 Not a villain. Not even a cautionary tale, exactly. Just a man.
